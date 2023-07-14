@@ -276,7 +276,7 @@ In this recipe, we have shown how to validate fastq files, and proposed indicato
 
 ### What to read next?
 
-- 🐙[From proprietary format to open standard format: an exemplar](https://github.com/FAIRplus/the-fair-cookbook/blob/mzml-format/docs/content/recipes/interoperability/from-proprietary-to-open-standard-mzml-exemplar.md) 
+- 🐙[From proprietary format to open standard format: an exemplar](https://faircookbook.elixir-europe.org/content/recipes/interoperability/from-proprietary-to-open-standard-mzml-exemplar.html) 
 - 🐙[FASTQ file specification recipe](TODO include link to recipe https://www.TBD.org )
 - 🐙[FASTQ file validator in Biopython](TODO include link to recipe https://www.TBD.org)
 
